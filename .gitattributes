@@ -1,2 +1,2 @@
-*.linguist-detectable=Javascript
-*.linguist-language=Javascript
+*.js linguist-detectable=Javascript
+*.json linguist-language=Javascript
