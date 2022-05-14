@@ -1,1 +1,2 @@
-linguist-detectable = javascript
+*.linguist-detectable=Javascript
+*.linguist-language=Javascript
